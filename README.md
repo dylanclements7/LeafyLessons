@@ -17,7 +17,7 @@ For Clark Academic Spree Day 2021 students researched the relationship between t
 
 The relation between the heat study and the tree coverage study can be seen when comparing their respectives maps:
 
-!(https://github.com/dylanclements7/LeafyLessons/blob/main/heatMap.png)
-!(https://github.com/dylanclements7/LeafyLessons/blob/main/heatMap.png)
+!(https://github.com/dylanclements7/LeafyLessons/raw/main/heatMap.png)
+!(https://github.com/dylanclements7/LeafyLessons/raw/main/heatMap.png)
 
 Our project enables Worcester residents to see their location on both the heat and tree coverage maps, allowing them to visualize the tree coverage situation in their neighborhood and the negative effects it is having on their quality of life and the environment as a whole. Our program also provides information to users on how to utilize Worcester City resources to plant trees in public spaces and get in touch with their representatives to support policies to protect and grow tree coverage in Worcester.
