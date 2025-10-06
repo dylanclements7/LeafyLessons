@@ -1,4 +1,4 @@
-    HACKATHON 2024 GROUP: GUPTA'S GOONS - Charlie VandenBosch and Dylan Clements
+    CLARK HACKATHON 2024 GROUP: Charlie VandenBosch and Dylan Clements
     The unzipme file has all three files zipped up
     The three files are also in the repository individually
     The powerpoint file is our google slides presentation
